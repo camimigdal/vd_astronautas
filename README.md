@@ -1,6 +1,8 @@
 # Astronautas que participan de misiones espaciales
 
-Los datos corresponden a astronautas que participaron en misiones espaciales desde el 1 de enero de 2010 hasta el 30 de diciembre de 2019 recopilados por la NASA (Estados Unidos), Roscosmos (Rusia) y otros sitios. Son más de 150 registros, en donde cada fila representa un astronauta participante de una misión espacial. Los campos son:
+Los datos corresponden a astronautas que participaron en misiones espaciales desde el 1 de enero de 2010 hasta el 30 de diciembre de 2019 recopilados por la NASA (Estados Unidos), Roscosmos (Rusia) y otros sitios. Son más de 150 registros, en donde cada fila representa un astronauta participante de una misión espacial. 
+
+Los campos son:
 
 1. **nombre:** Nombre completo
 2. **genero:** Género
