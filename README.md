@@ -12,8 +12,8 @@ Los campos son:
 6. **ocupacion:** Título profesional
 7. **anio_mision:** Año de la misión 
 8. **edad_mision:** Edad del astronauta cuando realizó la misión
-9. **mision_hs:** Duración de la misión
-10. **eva_mision_hs:** Duración de las actividades extravehiculares (EVA) 
+9. **mision_hs:** Duración de la misión en horas
+10. **eva_mision_hs:** Duración de las actividades extravehiculares (EVA) en horas
 
 
 
