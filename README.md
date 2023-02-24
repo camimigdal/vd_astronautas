@@ -1,4 +1,4 @@
-# Astronautas que participan de misiones espaciales
+# Astronautas que participaron en misiones espaciales
 
 Los datos corresponden a astronautas que participaron en misiones espaciales desde el 1 de enero de 2010 hasta el 15 de enero de 2020 recopilados por la NASA (Estados Unidos), Roscosmos (Rusia) y otros sitios. Son más de 150 registros, en donde cada fila representa un astronauta participante de una misión espacial. 
 
